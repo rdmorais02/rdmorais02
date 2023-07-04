@@ -55,7 +55,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
-![snake gif](https://github.com/rdmorais02/rdmorais02/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rodrigo morais/rodrigo morais/blob/output/github-contribution-grid-snake.svg)
 
 
 
