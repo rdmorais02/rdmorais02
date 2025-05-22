@@ -112,7 +112,7 @@ Me chamo Rodrigo Morais da Silva, tenho 20 anos e sou de São Paulo. Concluí o 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=rdmorais02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
