@@ -105,25 +105,34 @@ Me chamo Rodrigo Morais da Silva, tenho 20 anos e sou de São Paulo. Concluí o 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rdmorais02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <a href="https://github.com/rdmorais02">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=rdmorais02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/rdmorais02">
+    <img 
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmorais02&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8"
+      alt="Linguagens Mais Usadas"
+    />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmorais02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  alt="GitHub Streak" 
+  height="180em" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=rdmorais02&theme=tokyonight&locale=pt-br"
+/>
 
-</p>
+      
+  </a>
+</div>
+
 
 
 
