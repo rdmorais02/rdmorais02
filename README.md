@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Rodrigo Morais
+# 👨🏾‍💻 Rodrigo Morais
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rodrigo Morais da Silva, tenho 20 anos e sou de São Paulo. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. gosto muito de tecnologia.
+Me chamo Rodrigo Morais da Silva, tenho 20 anos e sou de São Paulo. Concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. gosto muito de tecnologia.
 
 <p align="left">
 
